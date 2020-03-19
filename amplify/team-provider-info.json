@@ -1,0 +1,38 @@
+{
+    "androidstu": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifytest-androidstu-142441-authRole",
+            "UnauthRoleArn": "arn:aws:iam::533493394428:role/amplify-amplifytest-androidstu-142441-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::533493394428:role/amplify-amplifytest-androidstu-142441-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-amplifytest-androidstu-142441-deployment",
+            "UnauthRoleName": "amplify-amplifytest-androidstu-142441-unauthRole",
+            "StackName": "amplify-amplifytest-androidstu-142441",
+            "StackId": "arn:aws:cloudformation:eu-west-1:533493394428:stack/amplify-amplifytest-androidstu-142441/751e8150-6913-11ea-aa51-0ae0d664c880",
+            "AmplifyAppId": "d1wg9a5y19sky"
+        },
+        "categories": {
+            "auth": {
+                "amplifytest685bfd83": {}
+            }
+        }
+    },
+    "pets": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifytest-pets-173503-authRole",
+            "UnauthRoleArn": "arn:aws:iam::533493394428:role/amplify-amplifytest-pets-173503-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::533493394428:role/amplify-amplifytest-pets-173503-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-amplifytest-pets-173503-deployment",
+            "UnauthRoleName": "amplify-amplifytest-pets-173503-unauthRole",
+            "StackName": "amplify-amplifytest-pets-173503",
+            "StackId": "arn:aws:cloudformation:eu-west-1:533493394428:stack/amplify-amplifytest-pets-173503/0d468940-692e-11ea-b717-06ebe7208a7c",
+            "AmplifyAppId": "d1wg9a5y19sky"
+        },
+        "categories": {
+            "auth": {
+                "amplifytest685bfd83": {}
+            }
+        }
+    }
+}
